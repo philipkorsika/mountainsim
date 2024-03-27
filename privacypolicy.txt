@@ -1,0 +1,25 @@
+Privacy Policy for mountainsim
+This privacy policy governs your use of the software application mountainsim (“Application”) for mobile devices that was created by Philip Korsika. The Application is a basic random procedural image generator.
+
+1. User Data
+The Application does not collect, store, use, or share any personal data, sensitive information, or location data from its users. As such, we do not require users to provide any personal data to use the Application.
+
+2. Contact Us
+If you have any questions regarding privacy while using the Application, or have questions about our practices, please contact us via email at contact@philipkorsika.com
+
+3. Data Retention Policy
+Since the Application does not collect personal data, there is no data to retain or delete.
+
+4. Security
+We are committed to ensuring the security of any information that may be collected through third-party services used by the Application, even though the Application itself does not collect personal data.
+
+5. Third-party Services
+The Application may use third-party services that collect information used to identify you. Please refer to the privacy policy of the third-party service providers used by the Application for more information on their privacy practices.
+
+6. Compliance with Laws
+We will comply with all applicable laws and regulations regarding data protection and privacy.
+
+This privacy policy may be updated from time to time for any reason. We will notify you of any changes to our privacy policy by posting the new privacy policy here and updating the “last updated” date.
+
+Last Updated
+This privacy policy was last updated on 27/03/2024.
